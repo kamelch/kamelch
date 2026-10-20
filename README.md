@@ -16,6 +16,7 @@ ESP32 firmware and touchscreen controls for an espresso machine.
 
 ## Technical Skills
 
-**Data & ML:** Python, pandas, NumPy, scikit-learn, SQL  
-**Embedded:** C++, ESP32, PlatformIO  
+**Languages:** Python, Java, C++, SQL  
+**Data & ML:** pandas, NumPy, scikit-learn  
+**Embedded:** ESP32, PlatformIO  
 **Tools:** Git, GitHub, Jupyter
